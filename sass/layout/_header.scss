@@ -1,0 +1,13 @@
+.header {
+    background-image: linear-gradient(to right bottom,
+     rgba($color-primary-light, 0.8), 
+     rgba($color-primary-dark, 0.8));
+    background-size: cover;
+    background-position: top;
+    position: relative;
+    color: $color-black;
+
+    font-size: 3rem;
+
+    padding: 3rem;
+}
